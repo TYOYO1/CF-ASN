@@ -1,0 +1,9 @@
+{
+  "asn": 402542,
+  "handle": "CLOUDFLARENET",
+  "description": "Cloudflare Inc",
+  "subnets": {
+    "ipv4": [ "8.45.47.0/24" ],
+    "ipv6": [ "2606:54c2:1f::/48" ]
+  }
+}
