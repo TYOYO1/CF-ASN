@@ -1,0 +1,9 @@
+{
+  "asn": 22061,
+  "handle": "CLOUDFLARE-MTC-CA",
+  "description": "Cloudflare Inc",
+  "subnets": {
+    "ipv4": [ "173.245.51.0/24" ],
+    "ipv6": [ "2400:cb00:1492::/48" ]
+  }
+}
